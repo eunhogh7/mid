@@ -130,5 +130,7 @@ README.md
 - 사용자 입력 검증 로직 익히기
 
 ---
+![스크린샷 2025-06-13 170122](https://github.com/user-attachments/assets/ee404f98-551a-488d-84b0-3f3fb824978c)
+
 
 
